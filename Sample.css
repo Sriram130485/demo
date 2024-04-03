@@ -1,0 +1,57 @@
+.first{
+    border: 2px solid transparent;
+    height: 200px;
+    width: 49%;
+    float: left;
+}
+.first1 img{
+    height: 200px;
+}
+.first1{
+    /* border: 2px solid black; */
+    float: left;
+}
+.first2-1{
+    float: left;
+}
+.first2-2{
+    margin-left: 150px;
+    padding-top: 10px;
+    
+}
+.sample{
+    margin-left:450px;
+}
+.first2-3{
+    margin-top: 50px;
+}
+
+
+.second{
+    border: 2px solid transparent;
+    height: 200px;
+    width: 49%;
+    margin-top: 10%;
+    margin-left: 750px;
+}
+.second1 img{
+    height: 200px;
+}
+.second1{
+    /* border: 2px solid black; */
+    float: left;
+}
+.second2-1{
+    float: left;
+}
+.second2-2{
+    margin-left: 150px;
+    padding-top: 10px;
+    
+}
+.sample1{
+    margin-left:450px;
+}
+.second2-3{
+    margin-top: 50px;
+}
